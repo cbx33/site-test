@@ -1,0 +1,15 @@
+	<div id="book-cover">
+		<img src="<%= @item[:thumb] %>"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> <%= @item[:contrib] %><br>
+			<strong>Year published:</strong> <%= @item[:year] %><br>
+			<strong>Length:</strong> <%= @item[:length] %><br>
+			<strong>Genre:</strong> <%= @item[:genre] %><br>
+			<strong>Formats:</strong> 
+				<% if defined?(@item[:depub]) %><a href="<%= @item[:depub] %>">EPUB</a>,<% end %>
+				<% if defined?(@item[:dmobi]) %><a href="<%= @item[:dmobi] %>">MOBI</a>,<% end %>
+				<% if defined?(@item[:dpdf]) %><a href="<%= @item[:dpdf] %>">PDF</a>,<% end %>
+				<% if defined?(@item[:dhtml]) %><a href="<%= @item[:dhtml] %>">HTML</a>,<% end %>
+
+		</div>
+	</div>

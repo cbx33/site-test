@@ -1,0 +1,300 @@
+/* --- Main line styles --- */
+
+body{
+	background-image:url('/images/stone.jpg');
+	background-repeat:repeat;
+	font-family:Georgia, serif;
+	font-size:small;
+	color:rgb(80, 70, 60);
+	line-height:150%;
+
+}
+h1{
+	color:#f07746;
+	font-style:bold;
+	font-size:xx-large;
+}
+h2{
+	font-size:x-large;
+	padding-top:10px;
+}
+
+/* --- Header styles --- */
+
+#tag{
+	position:absolute;
+	color:#777;
+	font-style:italic;
+	font-size:x-large;
+	top:23px;
+}
+#tagspacer{
+	width:40px;
+}
+#header{
+	margin-top:10px;
+}
+
+
+
+/* ---Menu styles --- */
+
+#menu{
+	font-size:medium;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+#menu a{
+	color:#0080ab;
+	font-weight:bold;
+	text-decoration:none;
+	margin-bottom:10px;
+}
+#menu a:hover{
+	color:#00a0cd;
+	font-weight:bold;
+	text-decoration:none;
+}
+#menu ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+#menu li{
+	margin-bottom: 10px;
+}
+#menu ul li ul{
+	padding-left: 5px;
+}
+#menu ul li ul li{
+	font-size:small;
+	margin-bottom: 0px;
+}
+#menu ul li ul li a{
+	font-weight:normal;
+	color:rgb(50, 40, 30);
+	text-decoration:none;
+}
+#menu ul li ul li a:hover{
+	font-weight:normal;
+	color:rgb(20, 10, 0);
+}
+
+
+
+/* --- Main content styles --- */
+
+#main-content{
+	margin-bottom:40px;
+	margin-top:40px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:10px;
+	background:rgb(254, 254, 254);
+	border:1px solid #dad2bf;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0pt 1px 1px #f6eed8 inset;
+}
+#main-content p{
+	line-height:150%;
+}
+#main-content-special{
+	margin-bottom:40px;
+	margin-top:30px;
+	padding-top:1px;
+	padding-left:20px;
+}
+
+
+
+/* --- Footer styles --- */
+
+#footer{
+	padding-top:30px;
+	padding-bottom:20px;
+	font-size:small;
+	border-top:1px solid #dad2bf;
+	color:rgb(110, 100, 90);
+}
+#footer a{
+	color:rgb(50, 40, 30);
+	text-decoration:none;
+}
+#footer a:hover{
+	color:rgb(20, 10, 0);
+}
+
+
+
+/* --- Mast Head styles --- */
+
+#masthead{
+	margin-top:10px;
+	background-image:url('/images/diag.png');
+	background-repeat:repeat;
+}
+#masthead-content{
+	padding-top:50px;
+	padding-bottom:30px;
+}
+#masthead-thumb {
+	padding-top:20px;
+	padding-bottom:20px;
+	text-align:right;
+}
+#masthead-thumb img{
+	padding:5px;
+	background:rgb(254, 254, 254);
+	border:1px solid #dad2bf;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0pt 1px 1px #f6eed8 inset;
+}
+#masthead-para p{
+	font-size:x-large;
+	line-height:120%;
+}
+
+
+/* --- Book styles --- */
+
+#book{
+}
+#book img{
+	padding:5px;
+	background:rgb(254, 254, 254);
+	border:1px solid #dad2bf;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0pt 1px 1px #f6eed8 inset;
+}
+#book-preamble{
+	background-image:url('/images/book-logo.png');
+	background-repeat:no-repeat;
+	background-position:right center;
+	margin-top:10px;
+	margin-bottom:25px;
+	padding-right:70px;
+	font-size:large;
+	line-height:120%;
+	height:70px;
+}
+#book-title{
+	padding-left:10px;
+}
+#book a{
+	font-weight:normal;
+	color:rgb(50, 40, 30);
+	text-decoration:none;
+}
+#book a:hover{
+	font-weight:normal;
+	color:rgb(20, 10, 0);
+}
+#book-content{
+	padding-right:10px;
+}
+#book-content h1{
+	color:#0080ab;
+}
+#book-content p{
+	padding-left:5px;
+}
+#book-cover{
+	margin:10px;
+	text-align:center;
+	float:right;
+	padding:5px;
+	background:rgb(254, 254, 254);
+	border:1px solid #dad2bf;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0pt 1px 1px #f6eed8 inset;
+	width:152px;
+}
+#book-stats{
+	font-size:x-small;
+	padding-bottom:15px;
+	padding-top:15px;
+}
+#book-quote{
+	background-image:url('/images/diag.png');
+	margin-left:20px;
+	margin-right:100px;
+	padding:10px;
+	margin-bottom:10px;
+}
+#book-quote p{
+	font-style:italic;
+	font-size:large;
+}
+#book-quote-author{
+	font-style:italic;
+	width:100%;
+	font-size:x-small;
+	padding-left:20px;
+}
+#book-stats a{
+	color: rgb(240,119,70);
+	text-decoration:none;
+}
+#book-stats a:hover{
+	color: rgb(200,79,10);
+	text-decoration:none;
+}
+
+/* --- Generic contexts --- */
+#spanner{
+	clear:both;
+}
+#highlight{
+	color:#f07746;
+}
+#download-button-container{
+	display:table-cell;
+	padding:10px;
+}
+#download-button{
+	text-align:center;
+	width:50px;
+	font-weight:bold;
+	padding:5px;
+	background:rgb(254, 254, 254);
+	border:7px solid rgb(150, 140, 130);
+	border-radius: 3px 3px 3px 3px;
+}
+#download-button-container a{
+	color:#f07746;
+	text-decoration:none;
+}
+#download-button-container a:hover{
+	color: rgb(200,79,10);
+	text-decoration:none;
+}
+#download-button-container a:hover #download-button{
+	border-radius: 3px 15px 15px 3px;
+	border:7px solid rgb(100, 90, 80);
+}
+#download-button-container-false{
+	display:table-cell;
+	padding:10px;
+	color:rgb(200, 190, 180);
+}
+#download-button-false{
+	text-align:center;
+	width:50px;
+	font-weight:bold;
+	padding:5px;
+	background:rgb(254, 254, 254);
+	border:7px solid rgb(210, 200, 190);
+	border-radius: 3px 3px 3px 3px;
+}
+
+
+
+/* --- Blog styles --- */
+#blog-list a{
+	color: rgb(240,119,70);
+	text-decoration:none;
+}
+#blog-list a:hover{
+	color: rgb(200,79,10);
+	text-decoration:none;
+}

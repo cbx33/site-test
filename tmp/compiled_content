@@ -1,0 +1,2420 @@
+{:versioni:	data{"/books/Emblem-Divide/{:default{	:pre"�<div id="book-content">
+	<h1>Emblem Divide</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/emblem-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2009<br>
+			<strong>Length:</strong> 642 pages<br>
+			<strong>Genre:</strong> Sci-Fi, Romance, Thriller<br>
+			<strong>Formats:</strong> 
+				<a href="">EPUB</a>,
+				<a href="">MOBI</a>,
+				<a href="">PDF</a>,
+				<a href="">HTML</a>,
+
+		</div>
+	</div>
+
+
+	<h2>Blurb</h2>
+	<p>The lecturer began commenting. “Oken Brown. He looks harmless enough but he was one of the most ruthless criminals ever to have graced God’s earth.” Suddenly Zane became interested. “He developed the first hand held temporal weapon, and used it in an underground fighting arena only twenty years ago.”</p>
+	<p>It wasn’t as if Oken hadn’t killed before, he was an elite member of an underground culture. He was almost like an ambassador of death. Oken was one of the best, but even he shuddered at this new weapon which threatened the very existence of everyone on the planet.</p>
+
+	<h2>About the book</h2>
+	<p>Emblem Divide was released on a wordpress blog in the winter of 2009. It was released serially, as a chapter every two days. Emblem Divide was released for free and readers were encouraged to donate money to three charities.</p>
+	<p>The book was started in 2003 whilst I was studying at university in a little under a month I had written almost 40,000 words. Quite frankly the most I had ever written in my life. The book then took a back seat for 6 years. My wife who had read the beginnings of it, begged me to finish it and 6 years later I did and gave it to her as a 5 year wedding anniversary present.</p>
+	<p>Shortly afterwards, I asked her if she would mind me relseasing the book online for free as an attempt to raise money for charity. The seed was sown and emblemdivide.com was set up on a wordpress blog.</p>
+	
+	<h2>Reception</h2>
+	<p>The book has received many favourable reviews, some excerpts of which are presented below:</p>
+	<div id="book-quote">
+		<p>"This book feels like a great movie wired directly into your imagination. Think “Back to the Future” meets “The Princess Bride” and “Pulp Fiction”. Yeah, I know!</p>
+
+		<p>I just closed the cover of a book called Emblem Divide. A great story with a fantastic style and finished with, for once in a novel – the perfect ending."</p>
+		<div id="book-quote-author">
+			Damien Chavarria
+		</div>
+	</div>
+	
+	<p>And of course, it wouldn't be complete without an excerpt from my wife's review</p>
+	
+	<div id="book-quote">
+		<p>"The writer has come up with an astoundingly original take on the concept of time travel whilst always staying two steps ahead of the readers train of thought."</p>
+		<div id="book-quote-author">
+			Lisa
+		</div>
+	</div>
+	
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href=""><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">HTML</div></a></div>
+
+	
+	<h2>Videos</h2>
+	
+	<p>A number of videos were created for readers wishing to learn more about the process of creating the world of Emblem Divide. Be aware, these videos do contain <span id="highlight">spoilers</span>, so please bear that in mind before watching them. The 5 videos are presented in a Youtube playlist.</p>
+
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLC7208812132E3873&amp;hl=en_GB" frameborder="0" allowfullscreen></iframe>
+
+	<p>&nbsp;</p>
+
+</div>:	post"�<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+						<li>
+							<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Git-in-the-Trenches/">Git in the Trenches</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-The-Gathering/">Alchemy Reigns II</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Emblem-Divide/">Emblem Divide</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-Breaking-Silence/">Alchemy Reigns I</a></li>
+									
+								
+							</ul>
+						</li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				<div id="book-content">
+	<h1>Emblem Divide</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/emblem-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2009<br>
+			<strong>Length:</strong> 642 pages<br>
+			<strong>Genre:</strong> Sci-Fi, Romance, Thriller<br>
+			<strong>Formats:</strong> 
+				<a href="">EPUB</a>,
+				<a href="">MOBI</a>,
+				<a href="">PDF</a>,
+				<a href="">HTML</a>,
+
+		</div>
+	</div>
+
+
+	<h2>Blurb</h2>
+	<p>The lecturer began commenting. “Oken Brown. He looks harmless enough but he was one of the most ruthless criminals ever to have graced God’s earth.” Suddenly Zane became interested. “He developed the first hand held temporal weapon, and used it in an underground fighting arena only twenty years ago.”</p>
+	<p>It wasn’t as if Oken hadn’t killed before, he was an elite member of an underground culture. He was almost like an ambassador of death. Oken was one of the best, but even he shuddered at this new weapon which threatened the very existence of everyone on the planet.</p>
+
+	<h2>About the book</h2>
+	<p>Emblem Divide was released on a wordpress blog in the winter of 2009. It was released serially, as a chapter every two days. Emblem Divide was released for free and readers were encouraged to donate money to three charities.</p>
+	<p>The book was started in 2003 whilst I was studying at university in a little under a month I had written almost 40,000 words. Quite frankly the most I had ever written in my life. The book then took a back seat for 6 years. My wife who had read the beginnings of it, begged me to finish it and 6 years later I did and gave it to her as a 5 year wedding anniversary present.</p>
+	<p>Shortly afterwards, I asked her if she would mind me relseasing the book online for free as an attempt to raise money for charity. The seed was sown and emblemdivide.com was set up on a wordpress blog.</p>
+	
+	<h2>Reception</h2>
+	<p>The book has received many favourable reviews, some excerpts of which are presented below:</p>
+	<div id="book-quote">
+		<p>"This book feels like a great movie wired directly into your imagination. Think “Back to the Future” meets “The Princess Bride” and “Pulp Fiction”. Yeah, I know!</p>
+
+		<p>I just closed the cover of a book called Emblem Divide. A great story with a fantastic style and finished with, for once in a novel – the perfect ending."</p>
+		<div id="book-quote-author">
+			Damien Chavarria
+		</div>
+	</div>
+	
+	<p>And of course, it wouldn't be complete without an excerpt from my wife's review</p>
+	
+	<div id="book-quote">
+		<p>"The writer has come up with an astoundingly original take on the concept of time travel whilst always staying two steps ahead of the readers train of thought."</p>
+		<div id="book-quote-author">
+			Lisa
+		</div>
+	</div>
+	
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href=""><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">HTML</div></a></div>
+
+	
+	<h2>Videos</h2>
+	
+	<p>A number of videos were created for readers wishing to learn more about the process of creating the world of Emblem Divide. Be aware, these videos do contain <span id="highlight">spoilers</span>, so please bear that in mind before watching them. The 5 videos are presented in a Youtube playlist.</p>
+
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLC7208812132E3873&amp;hl=en_GB" frameborder="0" allowfullscreen></iframe>
+
+	<p>&nbsp;</p>
+
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+:raw"�<div id="book-content">
+	<h1><%= @item[:title] %></h1>
+
+	<%= render 'book-stats' %>
+
+	<h2>Blurb</h2>
+	<p>The lecturer began commenting. “Oken Brown. He looks harmless enough but he was one of the most ruthless criminals ever to have graced God’s earth.” Suddenly Zane became interested. “He developed the first hand held temporal weapon, and used it in an underground fighting arena only twenty years ago.”</p>
+	<p>It wasn’t as if Oken hadn’t killed before, he was an elite member of an underground culture. He was almost like an ambassador of death. Oken was one of the best, but even he shuddered at this new weapon which threatened the very existence of everyone on the planet.</p>
+
+	<h2>About the book</h2>
+	<p>Emblem Divide was released on a wordpress blog in the winter of 2009. It was released serially, as a chapter every two days. Emblem Divide was released for free and readers were encouraged to donate money to three charities.</p>
+	<p>The book was started in 2003 whilst I was studying at university in a little under a month I had written almost 40,000 words. Quite frankly the most I had ever written in my life. The book then took a back seat for 6 years. My wife who had read the beginnings of it, begged me to finish it and 6 years later I did and gave it to her as a 5 year wedding anniversary present.</p>
+	<p>Shortly afterwards, I asked her if she would mind me relseasing the book online for free as an attempt to raise money for charity. The seed was sown and emblemdivide.com was set up on a wordpress blog.</p>
+	
+	<h2>Reception</h2>
+	<p>The book has received many favourable reviews, some excerpts of which are presented below:</p>
+	<div id="book-quote">
+		<p>"This book feels like a great movie wired directly into your imagination. Think “Back to the Future” meets “The Princess Bride” and “Pulp Fiction”. Yeah, I know!</p>
+
+		<p>I just closed the cover of a book called Emblem Divide. A great story with a fantastic style and finished with, for once in a novel – the perfect ending."</p>
+		<div id="book-quote-author">
+			Damien Chavarria
+		</div>
+	</div>
+	
+	<p>And of course, it wouldn't be complete without an excerpt from my wife's review</p>
+	
+	<div id="book-quote">
+		<p>"The writer has come up with an astoundingly original take on the concept of time travel whilst always staying two steps ahead of the readers train of thought."</p>
+		<div id="book-quote-author">
+			Lisa
+		</div>
+	</div>
+	
+	<%= render 'book-downloads' %>
+	
+	<h2>Videos</h2>
+	
+	<p>A number of videos were created for readers wishing to learn more about the process of creating the world of Emblem Divide. Be aware, these videos do contain <span id="highlight">spoilers</span>, so please bear that in mind before watching them. The 5 videos are presented in a Youtube playlist.</p>
+
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLC7208812132E3873&amp;hl=en_GB" frameborder="0" allowfullscreen></iframe>
+
+	<p>&nbsp;</p>
+
+</div>:	last@"/books/{;{	;"�<div id="book-preamble">
+						A <span id="highlight">small</span> collection of books that I have written over the years, or contributed to. Eventually most of these will be purchasable in <span id="highlight">dead tree</span> format, but for now you'll have to be satisfied with <span id="highlight">e-book</span> only versions.
+					</div>
+
+					<div class="row">
+						<div class="eleven columns centered">
+							<ul class="block-grid three-up">
+								
+								
+									
+								
+									
+								
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/gitt-med.png"><br>
+												<span id="book-title"><a href="/books/Git-in-the-Trenches/">Git in the Trenches</a></span>
+											</div>
+										</li>
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/alchemy-med.png"><br>
+												<span id="book-title"><a href="/books/Alchemy-Reigns-The-Gathering/">Alchemy Reigns II</a></span>
+											</div>
+										</li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/emblem-med.png"><br>
+												<span id="book-title"><a href="/books/Emblem-Divide/">Emblem Divide</a></span>
+											</div>
+										</li>
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/alchemy-med.png"><br>
+												<span id="book-title"><a href="/books/Alchemy-Reigns-Breaking-Silence/">Alchemy Reigns I</a></span>
+											</div>
+										</li>
+									
+								
+							</ul>
+						</div>
+					</div>;	"x<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+						<li>
+							<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Git-in-the-Trenches/">Git in the Trenches</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-The-Gathering/">Alchemy Reigns II</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Emblem-Divide/">Emblem Divide</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-Breaking-Silence/">Alchemy Reigns I</a></li>
+									
+								
+							</ul>
+						</li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content-special">
+				
+				<div id="book-preamble">
+						A <span id="highlight">small</span> collection of books that I have written over the years, or contributed to. Eventually most of these will be purchasable in <span id="highlight">dead tree</span> format, but for now you'll have to be satisfied with <span id="highlight">e-book</span> only versions.
+					</div>
+
+					<div class="row">
+						<div class="eleven columns centered">
+							<ul class="block-grid three-up">
+								
+								
+									
+								
+									
+								
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/gitt-med.png"><br>
+												<span id="book-title"><a href="/books/Git-in-the-Trenches/">Git in the Trenches</a></span>
+											</div>
+										</li>
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/alchemy-med.png"><br>
+												<span id="book-title"><a href="/books/Alchemy-Reigns-The-Gathering/">Alchemy Reigns II</a></span>
+											</div>
+										</li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/emblem-med.png"><br>
+												<span id="book-title"><a href="/books/Emblem-Divide/">Emblem Divide</a></span>
+											</div>
+										</li>
+									
+								
+									
+										<li>
+											<div id="book">
+												<img src="/images/books/alchemy-med.png"><br>
+												<span id="book-title"><a href="/books/Alchemy-Reigns-Breaking-Silence/">Alchemy Reigns I</a></span>
+											</div>
+										</li>
+									
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"M<div id="book-preamble">
+						A <span id="highlight">small</span> collection of books that I have written over the years, or contributed to. Eventually most of these will be purchasable in <span id="highlight">dead tree</span> format, but for now you'll have to be satisfied with <span id="highlight">e-book</span> only versions.
+					</div>
+
+					<div class="row">
+						<div class="eleven columns centered">
+							<ul class="block-grid three-up">
+								
+								<% @site.items.each do |art| %>
+									<% if art[:category] == 'books' %>
+										<li>
+											<div id="book">
+												<img src="<%= art[:thumb] %>"><br>
+												<span id="book-title"><a href="<%= art.identifier %>"><%= art[:'short-title'] %></a></span>
+											</div>
+										</li>
+									<% end %>
+								<% end %>
+							</ul>
+						</div>
+					</div>;@",/books/Alchemy-Reigns-Breaking-Silence/{;{	;"�	<div id="book-content">
+	<h1>Alchemy Reigns &#58; Breaking Silence</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/alchemy-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2011<br>
+			<strong>Length:</strong> 431 pages<br>
+			<strong>Genre:</strong> Sci-Fi, Romance, Fantasy, Thriller<br>
+			<strong>Formats:</strong> 
+				<a href="">EPUB</a>,
+				<a href="">MOBI</a>,
+				<a href="">PDF</a>,
+				<a href="">HTML</a>,
+
+		</div>
+	</div>
+
+
+
+	<h2>Blurb</h2>
+		<p>In a world where tension and fear reign, who can you trust? A selection of the worlds population have developed the ability to call forth alchemic elements. They can conjure up water, electricity, fire. They can bend metal and whittle wood with the power of their minds.</p>
+		<p>When a group of these so called Alchemists breaks away and begins using technology and powering it with their alchemic abilities, the rest of the Alchemist faction decides to shun them and a rift is created, forcing the human race into three distinct factions. With neither one having the upper hand and with tensions rising, just what will happen to such an unstable world?</p>
+		<p>Diese Batone, an agent of the Tech regime, has managed to capture and Alchemist in an abandoned trainyard. She begins questioning him about the mysterious <em>Stone of Jebrath</em>. Everything seems to be going according to plan until her partner Artisa Carrell begins acting exceedingly strangely.</p>
+
+	<h2>About the book</h2>
+<p>Alchemy Reigns is my second novel and took a little over two months to write. The story came about as a result of me wanting to write about both mecha and magic. The two elements came together to form the different factions in the book.</p>
+<p>The book is planned to last for four volumes. Each book covers a different theme and is expected to set a tone for the characters to explore.</p>
+<p>Unlike my first novel, Alchemy Reigns will be released in its entirety as MOBI, EPUB, and PDF. Stay tuned for more information.</p>
+		
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href=""><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">HTML</div></a></div>
+
+	<p>&nbsp;</p>
+
+</div>;	"�<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+						<li>
+							<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Git-in-the-Trenches/">Git in the Trenches</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-The-Gathering/">Alchemy Reigns II</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Emblem-Divide/">Emblem Divide</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-Breaking-Silence/">Alchemy Reigns I</a></li>
+									
+								
+							</ul>
+						</li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				<div id="book-content">
+	<h1>Alchemy Reigns &#58; Breaking Silence</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/alchemy-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2011<br>
+			<strong>Length:</strong> 431 pages<br>
+			<strong>Genre:</strong> Sci-Fi, Romance, Fantasy, Thriller<br>
+			<strong>Formats:</strong> 
+				<a href="">EPUB</a>,
+				<a href="">MOBI</a>,
+				<a href="">PDF</a>,
+				<a href="">HTML</a>,
+
+		</div>
+	</div>
+
+
+
+	<h2>Blurb</h2>
+		<p>In a world where tension and fear reign, who can you trust? A selection of the worlds population have developed the ability to call forth alchemic elements. They can conjure up water, electricity, fire. They can bend metal and whittle wood with the power of their minds.</p>
+		<p>When a group of these so called Alchemists breaks away and begins using technology and powering it with their alchemic abilities, the rest of the Alchemist faction decides to shun them and a rift is created, forcing the human race into three distinct factions. With neither one having the upper hand and with tensions rising, just what will happen to such an unstable world?</p>
+		<p>Diese Batone, an agent of the Tech regime, has managed to capture and Alchemist in an abandoned trainyard. She begins questioning him about the mysterious <em>Stone of Jebrath</em>. Everything seems to be going according to plan until her partner Artisa Carrell begins acting exceedingly strangely.</p>
+
+	<h2>About the book</h2>
+<p>Alchemy Reigns is my second novel and took a little over two months to write. The story came about as a result of me wanting to write about both mecha and magic. The two elements came together to form the different factions in the book.</p>
+<p>The book is planned to last for four volumes. Each book covers a different theme and is expected to set a tone for the characters to explore.</p>
+<p>Unlike my first novel, Alchemy Reigns will be released in its entirety as MOBI, EPUB, and PDF. Stay tuned for more information.</p>
+		
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href=""><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">HTML</div></a></div>
+
+	<p>&nbsp;</p>
+
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"�<div id="book-content">
+	<h1><%= @item[:title] %></h1>
+
+	<%= render 'book-stats' %>
+
+
+	<h2>Blurb</h2>
+		<p>In a world where tension and fear reign, who can you trust? A selection of the worlds population have developed the ability to call forth alchemic elements. They can conjure up water, electricity, fire. They can bend metal and whittle wood with the power of their minds.</p>
+		<p>When a group of these so called Alchemists breaks away and begins using technology and powering it with their alchemic abilities, the rest of the Alchemist faction decides to shun them and a rift is created, forcing the human race into three distinct factions. With neither one having the upper hand and with tensions rising, just what will happen to such an unstable world?</p>
+		<p>Diese Batone, an agent of the Tech regime, has managed to capture and Alchemist in an abandoned trainyard. She begins questioning him about the mysterious <em>Stone of Jebrath</em>. Everything seems to be going according to plan until her partner Artisa Carrell begins acting exceedingly strangely.</p>
+
+	<h2>About the book</h2>
+<p>Alchemy Reigns is my second novel and took a little over two months to write. The story came about as a result of me wanting to write about both mecha and magic. The two elements came together to form the different factions in the book.</p>
+<p>The book is planned to last for four volumes. Each book covers a different theme and is expected to set a tone for the characters to explore.</p>
+<p>Unlike my first novel, Alchemy Reigns will be released in its entirety as MOBI, EPUB, and PDF. Stay tuned for more information.</p>
+		
+	<%= render 'book-downloads' %>
+	<p>&nbsp;</p>
+
+</div>;@")/books/Alchemy-Reigns-The-Gathering/{;{	;"�<div id="book-content">
+	<h1>Alchemy Reigns &#58; The Gathering</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/alchemy-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2012<br>
+			<strong>Length:</strong> Unknown<br>
+			<strong>Genre:</strong> Sci-Fi, Romance, Fantasy, Thriller<br>
+			<strong>Formats:</strong> 
+				<a href="">EPUB</a>,
+				<a href="">MOBI</a>,
+				<a href="">PDF</a>,
+				<a href="">HTML</a>,
+
+		</div>
+	</div>
+
+
+
+	<h2>Blurb</h2>
+		<p>Not available yet</p>
+		
+	<h2>About the book</h2>
+	<p>Alchemy Reigns : The Gathering is still being written. It currently sits at 50 pages. Stay tuned for more information.</p>	
+	
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href=""><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">HTML</div></a></div>
+
+	
+	<p>&nbsp;</p>
+
+</div>;	"�<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+						<li>
+							<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Git-in-the-Trenches/">Git in the Trenches</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-The-Gathering/">Alchemy Reigns II</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Emblem-Divide/">Emblem Divide</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-Breaking-Silence/">Alchemy Reigns I</a></li>
+									
+								
+							</ul>
+						</li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				<div id="book-content">
+	<h1>Alchemy Reigns &#58; The Gathering</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/alchemy-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2012<br>
+			<strong>Length:</strong> Unknown<br>
+			<strong>Genre:</strong> Sci-Fi, Romance, Fantasy, Thriller<br>
+			<strong>Formats:</strong> 
+				<a href="">EPUB</a>,
+				<a href="">MOBI</a>,
+				<a href="">PDF</a>,
+				<a href="">HTML</a>,
+
+		</div>
+	</div>
+
+
+
+	<h2>Blurb</h2>
+		<p>Not available yet</p>
+		
+	<h2>About the book</h2>
+	<p>Alchemy Reigns : The Gathering is still being written. It currently sits at 50 pages. Stay tuned for more information.</p>	
+	
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href=""><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href=""><div id="download-button">HTML</div></a></div>
+
+	
+	<p>&nbsp;</p>
+
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"W<div id="book-content">
+	<h1><%= @item[:title] %></h1>
+
+	<%= render 'book-stats' %>
+
+
+	<h2>Blurb</h2>
+		<p>Not available yet</p>
+		
+	<h2>About the book</h2>
+	<p>Alchemy Reigns : The Gathering is still being written. It currently sits at 50 pages. Stay tuned for more information.</p>	
+	
+	<%= render 'book-downloads' %>
+	
+	<p>&nbsp;</p>
+
+</div>;@"/book/{;{	;"� <!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+				<ul>
+					<li><a href="">About</a></li>
+					<li><a href="/books.html">Books</a></li>
+					<!--{% if page.nav == "books" %}-->
+						<li>
+							<ul>
+							<!--{% for book in site.categories.books reversed %}-->
+								<li><a href="{{ book.url }}">Test<!--{{ book.short-title }}--></a></li>
+							<!--{% endfor %}-->
+							</ul>
+						</li>
+					<!--{% endif %}-->
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+			</div>
+				
+			<div class="ten columns">
+				<div id="main-content">
+					
+					<div id="book-content">
+						<h1>Git In The Trenches</h1>
+
+							<div id="book-cover">
+								<img src="/images/books/gitt-med.png"><br>
+								<div id="book-stats">
+									<strong>Contribution:</strong> {{ page.contrib }}<br>
+									<strong>Year published:</strong> {{ page.year }}<br>
+									<strong>Length:</strong> {{ page.length }}<br>
+									<strong>Genre:</strong> {{ page.genre }}<br>
+									<strong>Formats:</strong> 
+										{% if page.d-epub %}<a href="{{ page.d-epub }}">EPUB</a>,{% endif %}
+										{% if page.d-mobi %}<a href="{{ page.d-mobi }}">MOBI</a>,{% endif %}
+										{% if page.d-pdf %}<a href="{{ page.d-pdf }}">PDF</a>,{% endif %}
+										{% if page.d-html %}<a href="{{ page.d-html }}">HTML</a>,{% endif %}
+
+								</div>
+							</div>
+
+
+						<h2>Blurb</h2>
+							<p>This book is designed to help you both apply and understand the subtleties of Git, perhaps the most powerful version control system in use today. This book is not supposed to be purely a technical reference. GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc. a small software outfit who write bespoke software for people.</p>
+							<p>GITT follows developer John, as he works to implement their first version control system. The chapters are presented as weeks during the implementation of the project. Each chapter spells a new week in the project helping you to learn the tricks of the Git trade.</p>
+
+						<h2>About the book</h2>
+
+					<p>GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc.
+					They are a small software outfit who write bespoke software for people.
+					It may be that you work for a company that is very similar to Tamagoyaki Inc and you are looking to implement a version control system for your own company, or it could be that you have been using a version control for a long time and are looking for a helping hand in applying the Git system to your needs.
+					Regardless of which box you fit into, GITT should provide you with some useful knowledge in a way that is designed to help you remember the scenarios and their associated solutions.</p>
+
+					<p>The book will follow the lead developer John, as he works to bring the company into line by implementing a version control system.
+					It's not something he's ever really used in earnest and he feels a little out of his depth.
+					It is hoped that your confidence and knowledge about both version control systems, and Git in particular, will grow whilst reading GITT.</p>
+
+					<p>The chapters are presented as weeks during the implementation of Tamagoyaki Inc's version control system project.
+					Each chapter spells a new week in the project and you will follow the life of John and his colleagues as they solve problems and learn tricks of the Git trade.
+					As well as presenting and solving common issues, the book will also be littered with breakout boxes, intended to tell you exactly what is happening inside Git at each stage.
+					This is intended to further your knowledge and understanding of this powerful piece of software.
+					At the end of each chapter are "John's Notes" which should build into a quick reference guide.</p>
+
+					<p>After each week, there is also the opportunity for you to delve further into the guts of what has been presented during the week with the <span id="highlight">After Hours</span> sections.
+					These sections will take the knowledge that you have learned during the week and take it to a much deeper level, often showing diagrammatic ways of how commits take place, or even looking at the contents of files within the repository file structure itself.
+					These chapters are not meant to scare you, but are presented in the hope that you can reinforce what you have learned through the week by reading through more complex material.</p>
+
+						
+						<h2>Reception</h2>
+						<p>A comment from Sitaram Chamarty whilst the book was being developed:</p>
+						<div id="book-quote">
+							<p>"All I can say is that it does look nice so far, and once it is polished up it should be quite useful to newbies, especially in the corporate world."</p>
+
+							<div id="book-quote-author">
+								Sitaram Chamarty - Author of gitolite
+							</div>
+						</div>
+						
+						<p>And another on the finished product</p>
+						
+						<div id="book-quote">
+							<p>"I like the writing style. I think it makes a technical topic approachable."</p>
+							<div id="book-quote-author">
+								Wynn Netherland - co-host of the Changelog
+							</div>
+						</div>
+							
+						<h2>Download</h2>
+						
+						<p>Currently, the book can be obtained in following formats.</p>
+						
+						{% if page.d-epub %}<div id="download-button-container"><a href="{{ page.d-epub }}"><div id="download-button">EPUB</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">EPUB</div></div>{% endif %}
+						{% if page.d-mobi %}<div id="download-button-container"><a href="{{ page.d-mobi }}"><div id="download-button">MOBI</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">MOBI</div></div>{% endif %}
+						{% if page.d-pdf %}<div id="download-button-container"><a href="{{ page.d-pdf }}"><div id="download-button">PDF</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">PDF</div></div>{% endif %}
+						{% if page.d-html %}<div id="download-button-container"><a href="{{ page.d-html }}"><div id="download-button">HTML</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">HTML</div></div>{% endif %}
+
+
+						<p>&nbsp;</p>
+
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+
+	
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;	":*<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+				<ul>
+					<li><a href="">About</a></li>
+					<li><a href="/books.html">Books</a></li>
+					<!--{% if page.nav == "books" %}-->
+						<li>
+							<ul>
+							<!--{% for book in site.categories.books reversed %}-->
+								<li><a href="{{ book.url }}">Test<!--{{ book.short-title }}--></a></li>
+							<!--{% endfor %}-->
+							</ul>
+						</li>
+					<!--{% endif %}-->
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+			</div>
+				
+			<div class="ten columns">
+				<div id="main-content">
+					
+					<div id="book-content">
+						<h1>Git In The Trenches</h1>
+
+							<div id="book-cover">
+								<img src="/images/books/gitt-med.png"><br>
+								<div id="book-stats">
+									<strong>Contribution:</strong> {{ page.contrib }}<br>
+									<strong>Year published:</strong> {{ page.year }}<br>
+									<strong>Length:</strong> {{ page.length }}<br>
+									<strong>Genre:</strong> {{ page.genre }}<br>
+									<strong>Formats:</strong> 
+										{% if page.d-epub %}<a href="{{ page.d-epub }}">EPUB</a>,{% endif %}
+										{% if page.d-mobi %}<a href="{{ page.d-mobi }}">MOBI</a>,{% endif %}
+										{% if page.d-pdf %}<a href="{{ page.d-pdf }}">PDF</a>,{% endif %}
+										{% if page.d-html %}<a href="{{ page.d-html }}">HTML</a>,{% endif %}
+
+								</div>
+							</div>
+
+
+						<h2>Blurb</h2>
+							<p>This book is designed to help you both apply and understand the subtleties of Git, perhaps the most powerful version control system in use today. This book is not supposed to be purely a technical reference. GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc. a small software outfit who write bespoke software for people.</p>
+							<p>GITT follows developer John, as he works to implement their first version control system. The chapters are presented as weeks during the implementation of the project. Each chapter spells a new week in the project helping you to learn the tricks of the Git trade.</p>
+
+						<h2>About the book</h2>
+
+					<p>GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc.
+					They are a small software outfit who write bespoke software for people.
+					It may be that you work for a company that is very similar to Tamagoyaki Inc and you are looking to implement a version control system for your own company, or it could be that you have been using a version control for a long time and are looking for a helping hand in applying the Git system to your needs.
+					Regardless of which box you fit into, GITT should provide you with some useful knowledge in a way that is designed to help you remember the scenarios and their associated solutions.</p>
+
+					<p>The book will follow the lead developer John, as he works to bring the company into line by implementing a version control system.
+					It's not something he's ever really used in earnest and he feels a little out of his depth.
+					It is hoped that your confidence and knowledge about both version control systems, and Git in particular, will grow whilst reading GITT.</p>
+
+					<p>The chapters are presented as weeks during the implementation of Tamagoyaki Inc's version control system project.
+					Each chapter spells a new week in the project and you will follow the life of John and his colleagues as they solve problems and learn tricks of the Git trade.
+					As well as presenting and solving common issues, the book will also be littered with breakout boxes, intended to tell you exactly what is happening inside Git at each stage.
+					This is intended to further your knowledge and understanding of this powerful piece of software.
+					At the end of each chapter are "John's Notes" which should build into a quick reference guide.</p>
+
+					<p>After each week, there is also the opportunity for you to delve further into the guts of what has been presented during the week with the <span id="highlight">After Hours</span> sections.
+					These sections will take the knowledge that you have learned during the week and take it to a much deeper level, often showing diagrammatic ways of how commits take place, or even looking at the contents of files within the repository file structure itself.
+					These chapters are not meant to scare you, but are presented in the hope that you can reinforce what you have learned through the week by reading through more complex material.</p>
+
+						
+						<h2>Reception</h2>
+						<p>A comment from Sitaram Chamarty whilst the book was being developed:</p>
+						<div id="book-quote">
+							<p>"All I can say is that it does look nice so far, and once it is polished up it should be quite useful to newbies, especially in the corporate world."</p>
+
+							<div id="book-quote-author">
+								Sitaram Chamarty - Author of gitolite
+							</div>
+						</div>
+						
+						<p>And another on the finished product</p>
+						
+						<div id="book-quote">
+							<p>"I like the writing style. I think it makes a technical topic approachable."</p>
+							<div id="book-quote-author">
+								Wynn Netherland - co-host of the Changelog
+							</div>
+						</div>
+							
+						<h2>Download</h2>
+						
+						<p>Currently, the book can be obtained in following formats.</p>
+						
+						{% if page.d-epub %}<div id="download-button-container"><a href="{{ page.d-epub }}"><div id="download-button">EPUB</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">EPUB</div></div>{% endif %}
+						{% if page.d-mobi %}<div id="download-button-container"><a href="{{ page.d-mobi }}"><div id="download-button">MOBI</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">MOBI</div></div>{% endif %}
+						{% if page.d-pdf %}<div id="download-button-container"><a href="{{ page.d-pdf }}"><div id="download-button">PDF</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">PDF</div></div>{% endif %}
+						{% if page.d-html %}<div id="download-button-container"><a href="{{ page.d-html }}"><div id="download-button">HTML</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">HTML</div></div>{% endif %}
+
+
+						<p>&nbsp;</p>
+
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+
+	
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"� <!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+				<ul>
+					<li><a href="">About</a></li>
+					<li><a href="/books.html">Books</a></li>
+					<!--{% if page.nav == "books" %}-->
+						<li>
+							<ul>
+							<!--{% for book in site.categories.books reversed %}-->
+								<li><a href="{{ book.url }}">Test<!--{{ book.short-title }}--></a></li>
+							<!--{% endfor %}-->
+							</ul>
+						</li>
+					<!--{% endif %}-->
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+			</div>
+				
+			<div class="ten columns">
+				<div id="main-content">
+					
+					<div id="book-content">
+						<h1>Git In The Trenches</h1>
+
+							<div id="book-cover">
+								<img src="/images/books/gitt-med.png"><br>
+								<div id="book-stats">
+									<strong>Contribution:</strong> {{ page.contrib }}<br>
+									<strong>Year published:</strong> {{ page.year }}<br>
+									<strong>Length:</strong> {{ page.length }}<br>
+									<strong>Genre:</strong> {{ page.genre }}<br>
+									<strong>Formats:</strong> 
+										{% if page.d-epub %}<a href="{{ page.d-epub }}">EPUB</a>,{% endif %}
+										{% if page.d-mobi %}<a href="{{ page.d-mobi }}">MOBI</a>,{% endif %}
+										{% if page.d-pdf %}<a href="{{ page.d-pdf }}">PDF</a>,{% endif %}
+										{% if page.d-html %}<a href="{{ page.d-html }}">HTML</a>,{% endif %}
+
+								</div>
+							</div>
+
+
+						<h2>Blurb</h2>
+							<p>This book is designed to help you both apply and understand the subtleties of Git, perhaps the most powerful version control system in use today. This book is not supposed to be purely a technical reference. GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc. a small software outfit who write bespoke software for people.</p>
+							<p>GITT follows developer John, as he works to implement their first version control system. The chapters are presented as weeks during the implementation of the project. Each chapter spells a new week in the project helping you to learn the tricks of the Git trade.</p>
+
+						<h2>About the book</h2>
+
+					<p>GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc.
+					They are a small software outfit who write bespoke software for people.
+					It may be that you work for a company that is very similar to Tamagoyaki Inc and you are looking to implement a version control system for your own company, or it could be that you have been using a version control for a long time and are looking for a helping hand in applying the Git system to your needs.
+					Regardless of which box you fit into, GITT should provide you with some useful knowledge in a way that is designed to help you remember the scenarios and their associated solutions.</p>
+
+					<p>The book will follow the lead developer John, as he works to bring the company into line by implementing a version control system.
+					It's not something he's ever really used in earnest and he feels a little out of his depth.
+					It is hoped that your confidence and knowledge about both version control systems, and Git in particular, will grow whilst reading GITT.</p>
+
+					<p>The chapters are presented as weeks during the implementation of Tamagoyaki Inc's version control system project.
+					Each chapter spells a new week in the project and you will follow the life of John and his colleagues as they solve problems and learn tricks of the Git trade.
+					As well as presenting and solving common issues, the book will also be littered with breakout boxes, intended to tell you exactly what is happening inside Git at each stage.
+					This is intended to further your knowledge and understanding of this powerful piece of software.
+					At the end of each chapter are "John's Notes" which should build into a quick reference guide.</p>
+
+					<p>After each week, there is also the opportunity for you to delve further into the guts of what has been presented during the week with the <span id="highlight">After Hours</span> sections.
+					These sections will take the knowledge that you have learned during the week and take it to a much deeper level, often showing diagrammatic ways of how commits take place, or even looking at the contents of files within the repository file structure itself.
+					These chapters are not meant to scare you, but are presented in the hope that you can reinforce what you have learned through the week by reading through more complex material.</p>
+
+						
+						<h2>Reception</h2>
+						<p>A comment from Sitaram Chamarty whilst the book was being developed:</p>
+						<div id="book-quote">
+							<p>"All I can say is that it does look nice so far, and once it is polished up it should be quite useful to newbies, especially in the corporate world."</p>
+
+							<div id="book-quote-author">
+								Sitaram Chamarty - Author of gitolite
+							</div>
+						</div>
+						
+						<p>And another on the finished product</p>
+						
+						<div id="book-quote">
+							<p>"I like the writing style. I think it makes a technical topic approachable."</p>
+							<div id="book-quote-author">
+								Wynn Netherland - co-host of the Changelog
+							</div>
+						</div>
+							
+						<h2>Download</h2>
+						
+						<p>Currently, the book can be obtained in following formats.</p>
+						
+						{% if page.d-epub %}<div id="download-button-container"><a href="{{ page.d-epub }}"><div id="download-button">EPUB</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">EPUB</div></div>{% endif %}
+						{% if page.d-mobi %}<div id="download-button-container"><a href="{{ page.d-mobi }}"><div id="download-button">MOBI</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">MOBI</div></div>{% endif %}
+						{% if page.d-pdf %}<div id="download-button-container"><a href="{{ page.d-pdf }}"><div id="download-button">PDF</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">PDF</div></div>{% endif %}
+						{% if page.d-html %}<div id="download-button-container"><a href="{{ page.d-html }}"><div id="download-button">HTML</div></a></div>{% else %}<div id="download-button-container-false"><div id="download-button-false">HTML</div></div>{% endif %}
+
+
+						<p>&nbsp;</p>
+
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+
+	
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;@#" /books/Git-in-the-Trenches/{;{	;"�<div id="book-content">
+	<h1>Git in the Trenches</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/gitt-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2011<br>
+			<strong>Length:</strong> 270 pages<br>
+			<strong>Genre:</strong> Technical, Git<br>
+			<strong>Formats:</strong> 
+				<a href="https://github.com/cbx33/tempo/blob/master/complete.epub?raw=true">EPUB</a>,
+				<a href="https://github.com/cbx33/tempo/blob/master/complete.mobi?raw=true">MOBI</a>,
+				<a href="https://github.com/cbx33/tempo/blob/master/screen.pdf?raw=true">PDF</a>,
+				<a href="http://cbx33.github.com/gitt/">HTML</a>,
+
+		</div>
+	</div>
+
+
+	<h2>Blurb</h2>
+		<p>This book is designed to help you both apply and understand the subtleties of Git, perhaps the most powerful version control system in use today. This book is not supposed to be purely a technical reference. GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc. a small software outfit who write bespoke software for people.</p>
+		<p>GITT follows developer John, as he works to implement their first version control system. The chapters are presented as weeks during the implementation of the project. Each chapter spells a new week in the project helping you to learn the tricks of the Git trade.</p>
+
+	<h2>About the book</h2>
+
+<p>GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc.
+They are a small software outfit who write bespoke software for people.
+It may be that you work for a company that is very similar to Tamagoyaki Inc and you are looking to implement a version control system for your own company, or it could be that you have been using a version control for a long time and are looking for a helping hand in applying the Git system to your needs.
+Regardless of which box you fit into, GITT should provide you with some useful knowledge in a way that is designed to help you remember the scenarios and their associated solutions.</p>
+
+<p>The book will follow the lead developer John, as he works to bring the company into line by implementing a version control system.
+It's not something he's ever really used in earnest and he feels a little out of his depth.
+It is hoped that your confidence and knowledge about both version control systems, and Git in particular, will grow whilst reading GITT.</p>
+
+<p>The chapters are presented as weeks during the implementation of Tamagoyaki Inc's version control system project.
+Each chapter spells a new week in the project and you will follow the life of John and his colleagues as they solve problems and learn tricks of the Git trade.
+As well as presenting and solving common issues, the book will also be littered with breakout boxes, intended to tell you exactly what is happening inside Git at each stage.
+This is intended to further your knowledge and understanding of this powerful piece of software.
+At the end of each chapter are "John's Notes" which should build into a quick reference guide.</p>
+
+<p>After each week, there is also the opportunity for you to delve further into the guts of what has been presented during the week with the <span id="highlight">After Hours</span> sections.
+These sections will take the knowledge that you have learned during the week and take it to a much deeper level, often showing diagrammatic ways of how commits take place, or even looking at the contents of files within the repository file structure itself.
+These chapters are not meant to scare you, but are presented in the hope that you can reinforce what you have learned through the week by reading through more complex material.</p>
+
+	
+	<h2>Reception</h2>
+	<p>A comment from Sitaram Chamarty whilst the book was being developed:</p>
+	<div id="book-quote">
+		<p>"All I can say is that it does look nice so far, and once it is polished up it should be quite useful to newbies, especially in the corporate world."</p>
+
+		<div id="book-quote-author">
+			Sitaram Chamarty - Author of gitolite
+		</div>
+	</div>
+	
+	<p>And another on the finished product</p>
+	
+	<div id="book-quote">
+		<p>"I like the writing style. I think it makes a technical topic approachable."</p>
+		<div id="book-quote-author">
+			Wynn Netherland - co-host of the Changelog
+		</div>
+	</div>
+		
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href="https://github.com/cbx33/tempo/blob/master/complete.epub?raw=true"><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href="https://github.com/cbx33/tempo/blob/master/complete.mobi?raw=true"><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href="https://github.com/cbx33/tempo/blob/master/screen.pdf?raw=true"><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href="http://cbx33.github.com/gitt/"><div id="download-button">HTML</div></a></div>
+
+	<p>&nbsp;</p>
+
+</div>;	"}<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+						<li>
+							<ul>
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Git-in-the-Trenches/">Git in the Trenches</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-The-Gathering/">Alchemy Reigns II</a></li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<li><a href="/books/Emblem-Divide/">Emblem Divide</a></li>
+									
+								
+									
+										<li><a href="/books/Alchemy-Reigns-Breaking-Silence/">Alchemy Reigns I</a></li>
+									
+								
+							</ul>
+						</li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				<div id="book-content">
+	<h1>Git in the Trenches</h1>
+
+		<div id="book-cover">
+		<img src="/images/books/gitt-med.png"><br>
+		<div id="book-stats">
+			<strong>Contribution:</strong> Authored<br>
+			<strong>Year published:</strong> 2011<br>
+			<strong>Length:</strong> 270 pages<br>
+			<strong>Genre:</strong> Technical, Git<br>
+			<strong>Formats:</strong> 
+				<a href="https://github.com/cbx33/tempo/blob/master/complete.epub?raw=true">EPUB</a>,
+				<a href="https://github.com/cbx33/tempo/blob/master/complete.mobi?raw=true">MOBI</a>,
+				<a href="https://github.com/cbx33/tempo/blob/master/screen.pdf?raw=true">PDF</a>,
+				<a href="http://cbx33.github.com/gitt/">HTML</a>,
+
+		</div>
+	</div>
+
+
+	<h2>Blurb</h2>
+		<p>This book is designed to help you both apply and understand the subtleties of Git, perhaps the most powerful version control system in use today. This book is not supposed to be purely a technical reference. GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc. a small software outfit who write bespoke software for people.</p>
+		<p>GITT follows developer John, as he works to implement their first version control system. The chapters are presented as weeks during the implementation of the project. Each chapter spells a new week in the project helping you to learn the tricks of the Git trade.</p>
+
+	<h2>About the book</h2>
+
+<p>GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc.
+They are a small software outfit who write bespoke software for people.
+It may be that you work for a company that is very similar to Tamagoyaki Inc and you are looking to implement a version control system for your own company, or it could be that you have been using a version control for a long time and are looking for a helping hand in applying the Git system to your needs.
+Regardless of which box you fit into, GITT should provide you with some useful knowledge in a way that is designed to help you remember the scenarios and their associated solutions.</p>
+
+<p>The book will follow the lead developer John, as he works to bring the company into line by implementing a version control system.
+It's not something he's ever really used in earnest and he feels a little out of his depth.
+It is hoped that your confidence and knowledge about both version control systems, and Git in particular, will grow whilst reading GITT.</p>
+
+<p>The chapters are presented as weeks during the implementation of Tamagoyaki Inc's version control system project.
+Each chapter spells a new week in the project and you will follow the life of John and his colleagues as they solve problems and learn tricks of the Git trade.
+As well as presenting and solving common issues, the book will also be littered with breakout boxes, intended to tell you exactly what is happening inside Git at each stage.
+This is intended to further your knowledge and understanding of this powerful piece of software.
+At the end of each chapter are "John's Notes" which should build into a quick reference guide.</p>
+
+<p>After each week, there is also the opportunity for you to delve further into the guts of what has been presented during the week with the <span id="highlight">After Hours</span> sections.
+These sections will take the knowledge that you have learned during the week and take it to a much deeper level, often showing diagrammatic ways of how commits take place, or even looking at the contents of files within the repository file structure itself.
+These chapters are not meant to scare you, but are presented in the hope that you can reinforce what you have learned through the week by reading through more complex material.</p>
+
+	
+	<h2>Reception</h2>
+	<p>A comment from Sitaram Chamarty whilst the book was being developed:</p>
+	<div id="book-quote">
+		<p>"All I can say is that it does look nice so far, and once it is polished up it should be quite useful to newbies, especially in the corporate world."</p>
+
+		<div id="book-quote-author">
+			Sitaram Chamarty - Author of gitolite
+		</div>
+	</div>
+	
+	<p>And another on the finished product</p>
+	
+	<div id="book-quote">
+		<p>"I like the writing style. I think it makes a technical topic approachable."</p>
+		<div id="book-quote-author">
+			Wynn Netherland - co-host of the Changelog
+		</div>
+	</div>
+		
+		<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<div id="download-button-container"><a href="https://github.com/cbx33/tempo/blob/master/complete.epub?raw=true"><div id="download-button">EPUB</div></a></div>
+	<div id="download-button-container"><a href="https://github.com/cbx33/tempo/blob/master/complete.mobi?raw=true"><div id="download-button">MOBI</div></a></div>
+	<div id="download-button-container"><a href="https://github.com/cbx33/tempo/blob/master/screen.pdf?raw=true"><div id="download-button">PDF</div></a></div>
+	<div id="download-button-container"><a href="http://cbx33.github.com/gitt/"><div id="download-button">HTML</div></a></div>
+
+	<p>&nbsp;</p>
+
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"�<div id="book-content">
+	<h1><%= @item[:title] %></h1>
+
+	<%= render 'book-stats' %>
+
+	<h2>Blurb</h2>
+		<p>This book is designed to help you both apply and understand the subtleties of Git, perhaps the most powerful version control system in use today. This book is not supposed to be purely a technical reference. GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc. a small software outfit who write bespoke software for people.</p>
+		<p>GITT follows developer John, as he works to implement their first version control system. The chapters are presented as weeks during the implementation of the project. Each chapter spells a new week in the project helping you to learn the tricks of the Git trade.</p>
+
+	<h2>About the book</h2>
+
+<p>GITT follows the lives of some developers at a fictional company called Tamagoyaki Inc.
+They are a small software outfit who write bespoke software for people.
+It may be that you work for a company that is very similar to Tamagoyaki Inc and you are looking to implement a version control system for your own company, or it could be that you have been using a version control for a long time and are looking for a helping hand in applying the Git system to your needs.
+Regardless of which box you fit into, GITT should provide you with some useful knowledge in a way that is designed to help you remember the scenarios and their associated solutions.</p>
+
+<p>The book will follow the lead developer John, as he works to bring the company into line by implementing a version control system.
+It's not something he's ever really used in earnest and he feels a little out of his depth.
+It is hoped that your confidence and knowledge about both version control systems, and Git in particular, will grow whilst reading GITT.</p>
+
+<p>The chapters are presented as weeks during the implementation of Tamagoyaki Inc's version control system project.
+Each chapter spells a new week in the project and you will follow the life of John and his colleagues as they solve problems and learn tricks of the Git trade.
+As well as presenting and solving common issues, the book will also be littered with breakout boxes, intended to tell you exactly what is happening inside Git at each stage.
+This is intended to further your knowledge and understanding of this powerful piece of software.
+At the end of each chapter are "John's Notes" which should build into a quick reference guide.</p>
+
+<p>After each week, there is also the opportunity for you to delve further into the guts of what has been presented during the week with the <span id="highlight">After Hours</span> sections.
+These sections will take the knowledge that you have learned during the week and take it to a much deeper level, often showing diagrammatic ways of how commits take place, or even looking at the contents of files within the repository file structure itself.
+These chapters are not meant to scare you, but are presented in the hope that you can reinforce what you have learned through the week by reading through more complex material.</p>
+
+	
+	<h2>Reception</h2>
+	<p>A comment from Sitaram Chamarty whilst the book was being developed:</p>
+	<div id="book-quote">
+		<p>"All I can say is that it does look nice so far, and once it is polished up it should be quite useful to newbies, especially in the corporate world."</p>
+
+		<div id="book-quote-author">
+			Sitaram Chamarty - Author of gitolite
+		</div>
+	</div>
+	
+	<p>And another on the finished product</p>
+	
+	<div id="book-quote">
+		<p>"I like the writing style. I think it makes a technical topic approachable."</p>
+		<div id="book-quote-author">
+			Wynn Netherland - co-host of the Changelog
+		</div>
+	</div>
+		
+	<%= render 'book-downloads' %>
+	<p>&nbsp;</p>
+
+</div>;@)"/stylesheet/{;{;"* {
+  margin: 0;
+  padding: 0;
+
+  font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #f30;
+}
+
+a:hover {
+  color: #f90;
+}
+
+#main {
+  position: absolute;
+
+  top: 40px;
+  left: 280px;
+
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+}
+
+#main p {
+  margin: 20px 0;
+  
+  font-size: 15px;
+  
+  line-height: 20px;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+  
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: absolute;
+
+  top: 40px;
+  left: 20px;
+  width: 200px;
+
+  padding: 20px 20px 0 0;
+
+  border-right: 1px solid #ccc;
+
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+
+  font-size: 13px;
+
+  color: #333;
+
+  letter-spacing: 1px;
+
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 14px;
+
+  line-height: 20px;
+}
+;
+@.;@."/humans/{;{	;"�/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* zurb.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Coda, Textmate, Git;	"\
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* zurb.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Coda, Textmate, Git
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"�/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* zurb.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Coda, Textmate, Git;@3"/{;{	;"Q	<div id="main-content">
+<h1>Homepage</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat fringilla ultricies. Aenean tempor accumsan sem sed scelerisque. Nullam ullamcorper, mi ac tincidunt viverra, odio orci lobortis urna, at blandit risus nunc sed diam. In tempor facilisis viverra. Quisque eget justo in odio eleifend porttitor. Maecenas felis odio, eleifend quis sagittis eget, feugiat sit amet felis. Pellentesque ullamcorper velit eget velit tincidunt sed aliquet turpis vestibulum.</p>
+
+<p>Aliquam ac ante non sem posuere fermentum. Sed nulla lectus, luctus nec imperdiet quis, ultricies vitae orci. Proin non sem metus. Suspendisse et ante velit. Cras in volutpat lorem. Curabitur orci velit, iaculis sit amet imperdiet ut, sollicitudin a risus. Sed ultricies, elit non fermentum convallis, ipsum sem eleifend mauris, eu auctor libero nisi eget arcu.</p>
+
+<p>Suspendisse auctor, quam vitae elementum semper, magna nunc consectetur lorem, id interdum augue enim vel velit. Praesent vulputate magna eget libero bibendum vulputate. Duis fringilla gravida mi. Suspendisse non odio lorem. Fusce sit amet lacus arcu. Donec et faucibus augue. Nulla turpis orci, convallis vel facilisis ac, ullamcorper quis felis. In hendrerit luctus tellus quis congue. Integer bibendum ultricies orci, in faucibus sapien hendrerit in. Suspendisse eget porta eros. Donec aliquet turpis nec felis lacinia non elementum urna tincidunt. Cras ultricies, lacus eu faucibus viverra, risus tellus fringilla dui, et luctus orci urna a mi. Nunc mattis erat in ligula commodo consequat.</p>
+
+<p>Aliquam sodales lacinia laoreet. Aenean et lorem dolor, adipiscing ultricies lacus. Nam accumsan, nisi non eleifend dictum, ipsum sapien euismod purus, ac convallis lectus arcu eget diam. Nullam et ipsum felis, ac euismod orci. Integer vitae justo ut turpis bibendum tempus. Proin vitae libero ut neque dignissim luctus et eget justo. Fusce elementum ornare consequat. Curabitur sed varius mi. Etiam auctor augue ut nulla suscipit porta.</p>
+
+<p>Aliquam pretium metus a quam tempor ac pharetra mauris posuere. Nullam sed lectus lectus. Phasellus porta cursus eleifend. Etiam lectus erat, aliquam sit amet vulputate quis, facilisis a turpis. Aenean blandit tempus vulputate. Quisque ac felis lectus, sed semper purus. Mauris sit amet lorem a dui convallis iaculis eget non est.</p>
+</div>;	"�<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+		<div class="container" id="masthead">
+		<div class="row">
+			<div class="nine columns" id="masthead-content">
+					<!--{% for post in site.categories.news | limit 1 %}-->
+						<!--<div id="masthead-para">{{ post.content }}</div> -->
+						<div id="masthead-para">
+							<p>The first book of <span id="highlight">Alchemy Reigns!</span> is now complete. Set in a world where tension and fear run high due to the presence of humans with the ability to conjure elemental forces at will.</p>
+							<p>Book 1 is titled <span id="highlight">Breaking Silence</span>, and follows the journeys of <span id="highlight">Artisa</span>, a member of the Tech regime, and Veston, a human boy.</p>
+						</div>
+					<!--{% endfor %}-->
+			</div>
+			<div class="three columns" id="masthead-thumb">
+				<img src="/images/books/alchemy-med.png">
+			</div>
+		</div>
+	</div>	
+
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				<div id="main-content">
+<h1>Homepage</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat fringilla ultricies. Aenean tempor accumsan sem sed scelerisque. Nullam ullamcorper, mi ac tincidunt viverra, odio orci lobortis urna, at blandit risus nunc sed diam. In tempor facilisis viverra. Quisque eget justo in odio eleifend porttitor. Maecenas felis odio, eleifend quis sagittis eget, feugiat sit amet felis. Pellentesque ullamcorper velit eget velit tincidunt sed aliquet turpis vestibulum.</p>
+
+<p>Aliquam ac ante non sem posuere fermentum. Sed nulla lectus, luctus nec imperdiet quis, ultricies vitae orci. Proin non sem metus. Suspendisse et ante velit. Cras in volutpat lorem. Curabitur orci velit, iaculis sit amet imperdiet ut, sollicitudin a risus. Sed ultricies, elit non fermentum convallis, ipsum sem eleifend mauris, eu auctor libero nisi eget arcu.</p>
+
+<p>Suspendisse auctor, quam vitae elementum semper, magna nunc consectetur lorem, id interdum augue enim vel velit. Praesent vulputate magna eget libero bibendum vulputate. Duis fringilla gravida mi. Suspendisse non odio lorem. Fusce sit amet lacus arcu. Donec et faucibus augue. Nulla turpis orci, convallis vel facilisis ac, ullamcorper quis felis. In hendrerit luctus tellus quis congue. Integer bibendum ultricies orci, in faucibus sapien hendrerit in. Suspendisse eget porta eros. Donec aliquet turpis nec felis lacinia non elementum urna tincidunt. Cras ultricies, lacus eu faucibus viverra, risus tellus fringilla dui, et luctus orci urna a mi. Nunc mattis erat in ligula commodo consequat.</p>
+
+<p>Aliquam sodales lacinia laoreet. Aenean et lorem dolor, adipiscing ultricies lacus. Nam accumsan, nisi non eleifend dictum, ipsum sapien euismod purus, ac convallis lectus arcu eget diam. Nullam et ipsum felis, ac euismod orci. Integer vitae justo ut turpis bibendum tempus. Proin vitae libero ut neque dignissim luctus et eget justo. Fusce elementum ornare consequat. Curabitur sed varius mi. Etiam auctor augue ut nulla suscipit porta.</p>
+
+<p>Aliquam pretium metus a quam tempor ac pharetra mauris posuere. Nullam sed lectus lectus. Phasellus porta cursus eleifend. Etiam lectus erat, aliquam sit amet vulputate quis, facilisis a turpis. Aenean blandit tempus vulputate. Quisque ac felis lectus, sed semper purus. Mauris sit amet lorem a dui convallis iaculis eget non est.</p>
+</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"Q	<div id="main-content">
+<h1>Homepage</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat fringilla ultricies. Aenean tempor accumsan sem sed scelerisque. Nullam ullamcorper, mi ac tincidunt viverra, odio orci lobortis urna, at blandit risus nunc sed diam. In tempor facilisis viverra. Quisque eget justo in odio eleifend porttitor. Maecenas felis odio, eleifend quis sagittis eget, feugiat sit amet felis. Pellentesque ullamcorper velit eget velit tincidunt sed aliquet turpis vestibulum.</p>
+
+<p>Aliquam ac ante non sem posuere fermentum. Sed nulla lectus, luctus nec imperdiet quis, ultricies vitae orci. Proin non sem metus. Suspendisse et ante velit. Cras in volutpat lorem. Curabitur orci velit, iaculis sit amet imperdiet ut, sollicitudin a risus. Sed ultricies, elit non fermentum convallis, ipsum sem eleifend mauris, eu auctor libero nisi eget arcu.</p>
+
+<p>Suspendisse auctor, quam vitae elementum semper, magna nunc consectetur lorem, id interdum augue enim vel velit. Praesent vulputate magna eget libero bibendum vulputate. Duis fringilla gravida mi. Suspendisse non odio lorem. Fusce sit amet lacus arcu. Donec et faucibus augue. Nulla turpis orci, convallis vel facilisis ac, ullamcorper quis felis. In hendrerit luctus tellus quis congue. Integer bibendum ultricies orci, in faucibus sapien hendrerit in. Suspendisse eget porta eros. Donec aliquet turpis nec felis lacinia non elementum urna tincidunt. Cras ultricies, lacus eu faucibus viverra, risus tellus fringilla dui, et luctus orci urna a mi. Nunc mattis erat in ligula commodo consequat.</p>
+
+<p>Aliquam sodales lacinia laoreet. Aenean et lorem dolor, adipiscing ultricies lacus. Nam accumsan, nisi non eleifend dictum, ipsum sapien euismod purus, ac convallis lectus arcu eget diam. Nullam et ipsum felis, ac euismod orci. Integer vitae justo ut turpis bibendum tempus. Proin vitae libero ut neque dignissim luctus et eget justo. Fusce elementum ornare consequat. Curabitur sed varius mi. Etiam auctor augue ut nulla suscipit porta.</p>
+
+<p>Aliquam pretium metus a quam tempor ac pharetra mauris posuere. Nullam sed lectus lectus. Phasellus porta cursus eleifend. Etiam lectus erat, aliquam sit amet vulputate quis, facilisis a turpis. Aenean blandit tempus vulputate. Quisque ac felis lectus, sed semper purus. Mauris sit amet lorem a dui convallis iaculis eget non est.</p>
+</div>;@9"/about/{;{	;"5<h1>About</h1>
+<p>This site is all about me</p>
+;	"�	<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				<h1>About</h1>
+<p>This site is all about me</p>
+
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"5<h1>About</h1>
+<p>This site is all about me</p>
+;@?"/robots/{;{	;"n# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *;	"�	<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<base href="/">
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>cbx33 : PAGE TITLE</title>
+  
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="stylesheets/ie.css">
+	<![endif]-->
+	
+	<script src="javascripts/modernizr.foundation.js"></script>
+
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<div class="twelve columns" id="header">
+				<a href="/"><img src="/images/logo.png" alt="cbx33"></a><span id="tag">&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;finding ways to waste my own time</span>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+								<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>
+
+			</div>
+				
+			<div class="ten columns">
+				
+				<div id="main-content">
+				
+				# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="javascripts/foundation.js"></script>
+	<script src="javascripts/app.js"></script>
+
+</body>
+</html>
+;
+"n# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *;@E

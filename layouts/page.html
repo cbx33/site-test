@@ -1,0 +1,26 @@
+---
+layout: default
+---
+	<div class="container">
+		<div class="row">
+			<div class="two columns" id="menu">
+				<%= render 'menu' %>
+			</div>
+				
+			<div class="ten columns">
+				<% if defined?(@item[:specialpage]) && @item[:specialpage] %>
+				<div id="main-content-special">
+				<% else %>
+				<div id="main-content">
+				<% end %>
+				<%= yield %>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns" id="footer">
+				The design of this site is <a href="http://en.wikipedia.org/wiki/Open_source">open source</a>, hosted on <a href="http://github.com">GitHub</a> and designed by <a href="/">me</a>.<br>
+				Please feel free to leave any comments or suggestions
+			</div>
+		</div>
+	</div>

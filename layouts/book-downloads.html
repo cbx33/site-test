@@ -1,0 +1,8 @@
+	<h2>Download</h2>
+	
+	<p>Currently, the book can be obtained in following formats.</p>
+	
+	<% if defined?(@item[:depub]) %><div id="download-button-container"><a href="<%= @item[:depub] %>"><div id="download-button">EPUB</div></a></div><% else %><div id="download-button-container-false"><div id="download-button-false">EPUB</div></div><% end %>
+	<% if defined?(@item[:dmobi]) %><div id="download-button-container"><a href="<%= @item[:dmobi] %>"><div id="download-button">MOBI</div></a></div><% else %><div id="download-button-container-false"><div id="download-button-false">MOBI</div></div><% end %>
+	<% if defined?(@item[:dpdf]) %><div id="download-button-container"><a href="<%= @item[:dpdf] %>"><div id="download-button">PDF</div></a></div><% else %><div id="download-button-container-false"><div id="download-button-false">PDF</div></div><% end %>
+	<% if defined?(@item[:dhtml]) %><div id="download-button-container"><a href="<%= @item[:dhtml] %>"><div id="download-button">HTML</div></a></div><% else %><div id="download-button-container-false"><div id="download-button-false">HTML</div></div><% end %>

@@ -1,0 +1,19 @@
+				<ul>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/books/">Books</a></li>
+					<% if @item[:nav] == "books" %>
+						<li>
+							<ul>
+								<% @site.items.each do |art| %>
+									<% if art[:category] == 'books' %>
+										<li><a href="<%= art.identifier %>"><%= art[:'short-title'] %></a></li>
+									<% end %>
+								<% end %>
+							</ul>
+						</li>
+					<% end %>
+					<li><a href="/blog.html">Blog</a></li>
+					<li><a href="">Projects</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Source</a></li>
+				</ul>

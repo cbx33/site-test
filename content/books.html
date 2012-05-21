@@ -1,0 +1,25 @@
+---
+specialpage: true
+nav: books
+---
+					<div id="book-preamble">
+						A <span id="highlight">small</span> collection of books that I have written over the years, or contributed to. Eventually most of these will be purchasable in <span id="highlight">dead tree</span> format, but for now you'll have to be satisfied with <span id="highlight">e-book</span> only versions.
+					</div>
+
+					<div class="row">
+						<div class="eleven columns centered">
+							<ul class="block-grid three-up">
+								
+								<% @site.items.each do |art| %>
+									<% if art[:category] == 'books' %>
+										<li>
+											<div id="book">
+												<img src="<%= art[:thumb] %>"><br>
+												<span id="book-title"><a href="<%= art.identifier %>"><%= art[:'short-title'] %></a></span>
+											</div>
+										</li>
+									<% end %>
+								<% end %>
+							</ul>
+						</div>
+					</div>
