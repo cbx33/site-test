@@ -14,7 +14,7 @@ layout: default
 				<div id="main-content">
 				<% end %>
 				
-				<% @item.children.collect { |i| i.children }.flatten.sort_by{|i| i[:posted_on]}.each do |art|  %>
+				<% @item.children.sort_by{|i| i[:posted_on]}.each do |art|  %>
 					<%= art[:title] %><%= art[:posted_on] %><br>
 				<% end %>
 				
