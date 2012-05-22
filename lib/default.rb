@@ -2,3 +2,4 @@
 # before nanoc starts compiling.
 
 include Nanoc::Helpers::Rendering
+require 'date'
