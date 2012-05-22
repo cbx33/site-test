@@ -4,3 +4,21 @@ specialpage: true
 nav: projects
 ---
 <h1>Projects</h1>
+	<div class="row">
+		<div class="eleven columns centered">
+			<ul class="block-grid two-up">
+				<% @item.children.each do |art|  %>
+					<% if art[:featured] %>
+
+						<li>
+							<div id="project-featured">
+								<img src="<%= art[:thumb] %>"><br>
+								<h4><%= art[:title] %></h4>
+								<p><%= art[:description] %></p>
+							</div>
+						</li>
+					<% end %>
+				<% end %>
+			</ul>
+		</div>
+	</div>
