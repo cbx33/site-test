@@ -13,8 +13,8 @@ layout: default
 				<% else %>
 				<div id="main-content">
 				<% end %>
-				<% @item.children.sort_by{|i| Date.parse(i[:posted_on]).to_date}.each do |art|  %>
-					<%= art[:title] %>p
+				<% @item.children.sort_by{|i| Date.parse(i[:posted_on])}.each do |art|  %>
+					<%= art[:title] %><%= art[:posted_on] %>p
 				<% end %>
 				
 				</div>
@@ -27,3 +27,5 @@ layout: default
 			</div>
 		</div>
 	</div>
+
+@item.children.collect { |i| i.children }.flatten
