@@ -298,3 +298,15 @@ h2{
 	color: rgb(200,79,10);
 	text-decoration:none;
 }
+
+
+
+#project-featured{
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:10px;
+	background:rgb(254, 254, 254);
+	border:1px solid #dad2bf;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0pt 1px 1px #f6eed8 inset;
+}

@@ -6,6 +6,11 @@ layout: default
 			<div class="two columns" id="menu">
 				<%= render 'menu' %>
 			</div>
+				<%= @item.parent.identifier %>
+				<% puts(@items.find { |i| i.identifier == '/projects/arduino/2012/05/' }.children) %>
+				<% @items.sort_by { |i| i.identifier }.each do |art| %>
+				<%= art.identifier %><br>
+				<% end %>
 				
 			<div class="ten columns">
 				<% if defined?(@item[:specialpage]) && @item[:specialpage] %>
