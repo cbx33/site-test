@@ -8,18 +8,24 @@ layout: default
 			</div>
 				
 			<div class="ten columns">
-				<% if defined?(@item[:specialpage]) && @item[:specialpage] %>
-				<div id="main-content-special">
-				<% else %>
 				<div id="main-content">
-				<% end %>
-				<%= yield %>
+					<div class="row">
+						<div class="eight columns">
+							<h1><%= @item[:title] %></h1>
+							<h2>Description</h2>
+							<p><%= @item.raw_content %></p>
+						</div>
+						<div class="four columns">
+							<img src="<%= @item[:thumb] %>">
+						</div>
+					</div>
 				</div>
-			</div>
-			<div class="ten columns">
 				<div id="main-content-special">
-					<% @items.select { |i| i.identifier.start_with? @item.identifier }.each do |art| %>
-						<%= art[:title] %>
+					<% @items.select { |i| i.identifier.start_with? @item.identifier }.find_all{|i| i[:posted_on]}.sort_by{|i| i[:posted_on]}.reverse[0..9].each do |art| %>
+						
+						<h4><a href="<%= art.identifier %>"><%= art[:title] %></a></h4>
+						<%= art[:posted_on] %>
+						<%= art.compiled_content %>
 					<% end %>
 				</div>
 			</div>
