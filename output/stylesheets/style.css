@@ -85,7 +85,6 @@ h2{
 /* --- Main content styles --- */
 
 #main-content{
-	margin-bottom:40px;
 	margin-top:40px;
 	padding-left:20px;
 	padding-right:20px;
@@ -99,7 +98,6 @@ h2{
 	line-height:150%;
 }
 #main-content-special{
-	margin-bottom:40px;
 	margin-top:30px;
 	padding-top:1px;
 	padding-left:20px;

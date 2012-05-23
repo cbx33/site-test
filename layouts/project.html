@@ -13,11 +13,14 @@ layout: default
 				<% else %>
 				<div id="main-content">
 				<% end %>
-				
-				<% @item.children.collect { |i| i.children }.flatten.sort_by{|i| i[:posted_on]}.reverse[0..4].each do |art|  %>
-					<a href="<%= art.identifier %>"><%= art[:title] %></a> - <%= art[:posted_on] %><br>
-				<% end %>
-				
+				<%= yield %>
+				</div>
+			</div>
+			<div class="ten columns">
+				<div id="main-content-special">
+					<% @items.select { |i| i.identifier.start_with? @item.identifier }.each do |art| %>
+						<%= art[:title] %>
+					<% end %>
 				</div>
 			</div>
 		</div>
