@@ -9,11 +9,10 @@ layout: default
 				
 			<div class="ten columns">
 				<div id="main-content">
+					<h1><%= @item[:title] %></h1>
 					<div class="row">
 						<div class="eight columns">
-							<h1><%= @item[:title] %></h1>
-							<h2>Description</h2>
-							<p><%= @item.raw_content %></p>
+							<%= @item.raw_content %>
 						</div>
 						<div class="four columns">
 							<img src="<%= @item[:thumb] %>">
